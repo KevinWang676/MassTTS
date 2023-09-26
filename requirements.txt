@@ -1,0 +1,7 @@
+pqdm
+soundfile
+pypinyin
+transformers
+tgt
+pqdm
+git+https://github.com/r9y9/pysptk
