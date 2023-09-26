@@ -4,4 +4,4 @@ pypinyin
 transformers
 tgt
 pqdm
-git+https://github.com/r9y9/pysptk
+Cython==0.29.21
